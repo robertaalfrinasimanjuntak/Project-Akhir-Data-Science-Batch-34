@@ -1,9 +1,9 @@
-#Banking Dataset - Marketing Targets
+# Banking Dataset - Marketing Targets
 
-###Deskripsi Proyek
+### Deskripsi Proyek
 Proyek ini adalah analisis data dari dataset dengan 45211 baris dan 17 kolom. Dataset ini terdiri dari data numerik dan kategorik yang berkaitan dengan kampanye pemasaran untuk deposito di sebuah bank. Tujuan utama dari analisis ini adalah untuk mendapatkan wawasan tentang perilaku nasabah dan membuat rekomendasi bisnis berdasarkan temuan.
 
-##Isi
+## Isi
 1. Dataset Overview: Penjelasan tentang jumlah baris dan kolom dalam dataset, serta jenis data yang ada.
 2. Tipe Data dan Nama Kolom: Penjelasan tentang konsistensi tipe data dan rencana perubahan pada nama kolom.
 3. Kolom dengan Nilai Kosong: Penjelasan mengenai adanya nilai kosong dalam dataset.
@@ -19,9 +19,9 @@ Proyek ini adalah analisis data dari dataset dengan 45211 baris dan 17 kolom. Da
 13. Deposito Terintegrasi: Konsep integrasi produk deposito untuk tujuan keuangan yang lebih luas.
 
 
-##Kontribusi
+## Kontribusi
 Kontribusi selalu diterima dengan tangan terbuka. Jika Anda ingin berkontribusi dalam bentuk laporan bug, saran perbaikan, atau peningkatan lainnya, silakan buat "pull request" atau "issue" baru.
 
-##Lisensi
+## Lisensi
 Proyek ini menggunakan lisensi MIT License, yang berarti Anda dapat menggunakannya sesuai dengan ketentuan lisensi tersebut.
 
